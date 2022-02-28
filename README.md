@@ -239,14 +239,6 @@ At present, we officially aim to support the last two versions of the following 
 
 <br />
 
-## Resources
-
-- Demo: <https://www.creative-tim.com/live/black-dashboard-flask>
-- Download Page: <https://www.creative-tim.com/product/black-dashboard-flask>
-- Documentation: <https://demos.creative-tim.com/black-dashboard-flask/docs/1.0/getting-started/getting-started-flask.html>
-- License Agreement: <https://www.creative-tim.com/license>
-- Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/black-dashboard-flask/issues)
 
 <br />
 
